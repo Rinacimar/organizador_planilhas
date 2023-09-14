@@ -1,4 +1,4 @@
-<h1 align="center"> Organizador de Planilhas </h1>h1>
+<h1 align="center"> Organizador de Planilhas </h1>
 
 <p align="center">
   Script desenvolvido para organizar os padrões de planilhas   <br/>
