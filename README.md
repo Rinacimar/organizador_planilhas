@@ -18,7 +18,7 @@ Tecnologias utilizadas:
 - Openpyxl
 - Git e Github
 
+
 - ## 💻 Projeto
 
--  Script desenvolvido para criar uma forma de importar dados de um sistema de engenharia para outro, Ambos os sistemas forneciam os dados em padrões diferentes então o código tem o objetivo de coletar os dados de um padrão e devolver em outro para que possa ser feita a importação
--  
+-  Script desenvolvido para criar uma forma de importar dados de um sistema de engenharia para outro, Ambos os sistemas forneciam os dados em padrões diferentes então o código tem o objetivo de coletar os dados de um padrão e devolver em outro para que possa ser feita a importação 
